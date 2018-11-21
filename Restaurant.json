@@ -1,0 +1,104 @@
+{
+  "results": [{
+    "formatted_address": "209 Queen St S, Mississauga, ON L5M 1L4, Canada",
+    "name": "Goodfellas Wood Oven Pizza",
+    "rating": 3.9,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "111 Queen St S, Mississauga, ON L5M 1K6, Canada",
+    "name": "Saucy",
+    "rating": 4.3,
+    "types": ["restaurant", "bar", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "135 Queen St S, Mississauga, ON L5M 1K9, Canada",
+    "name": "Andiamo Pasta Plus",
+    "rating": 4.4,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "263 Queen St S, Mississauga, ON L5M 1L9, Canada",
+    "name": "The Franklin House",
+    "rating": 3.9,
+    "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "20 Queen St N, Mississauga, ON L5N 1A1, Canada",
+    "name": "Bobby's Hideaway",
+    "rating": 4.4,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "11 Pearl St, Mississauga, ON L5M 1X1, Canada",
+    "name": "Stavro's Greek Restaurant & Lounge",
+    "rating": 4.5,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "128 Queen St S, Mississauga, ON L5M 1J5, Canada",
+    "name": "Enzo's Two Guys From Italy",
+    "rating": 3.5,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "236 Queen St S, Mississauga, ON L5M 1L5, Canada",
+    "name": "Burger Legend",
+    "rating": 4.2,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "158 Queen St S, Mississauga, ON L5M 1K8, Canada",
+    "name": "Cuchulainn's Irish Pub",
+    "rating": 4.1,
+    "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "131 Queen St W, Mississauga, ON L5M 1K9, Canada",
+    "name": "Queen's Fish & Chips",
+    "rating": 4.2,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "127 Queen St S, Mississauga, ON L5M 1K9, Canada",
+    "name": "Mondello",
+    "rating": 4.4,
+    "types": ["bar", "night_club", "restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "251 Queen St S #1, Mississauga, ON L5M 1L7, Canada",
+    "name": "Osmow's Streetsville",
+    "rating": 3.3,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "180 Queen St S, Mississauga, ON L5M 1L3, Canada",
+    "name": "On-Z-Rocks",
+    "rating": 4.3,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "17 Tannery St, Mississauga, ON L5M 1V1, Canada",
+    "name": "Burrito Boyz Streetsville",
+    "rating": 4.3,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "63 Queen St S, Mississauga, ON L5M 3S9, Canada",
+    "name": "Jing Thai Restaurant",
+    "rating": 3.9,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "233 Queen St S, Mississauga, ON L5M 1L7, Canada",
+    "name": "El Mariachi Tacos and Churros",
+    "rating": 3.3,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "128 Queen St S Unit 10, Mississauga, ON L5M 1K8, Canada",
+    "name": "Cagneys Steakhouse & Winebar",
+    "rating": 4.2,
+    "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "6675 Falconer Dr, Mississauga, ON L5N 0C3, Canada",
+    "name": "Goldenview Chinese Restaurant",
+    "rating": 3.6,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "17 Queen St N, Mississauga, ON L5N 6A1, Canada",
+    "name": "Wing's Restaurant",
+    "rating": 3.9,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "200 Queen St S, Mississauga, ON L5M 1L3, Canada",
+    "name": "Amantra Food Fusion",
+    "rating": 4.8,
+    "reference": "CmRRAAAASQjXpi-vilZKoONmdH5zVIJP-gF9H8LLEZ28z6KrzdoyZtiX2DyefFNkUGuPYpr7I5XkotZfFnCa2L6WWvIR7u18MUkzf1mjKibP0A5cArlSMQffic_FxbEt7ohaXNUJEhCCKM4E53qaKiDQIJwKLx9GGhSWgvVj-TQ135OG-fO4rdj_TnKNVw",
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }]
+}
